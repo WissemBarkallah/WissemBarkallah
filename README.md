@@ -1,16 +1,20 @@
-## Hi there 👋
+# مرحباً، أنا [wissem barkallah] 👋
 
-<!--
-**WissemBarkallah/WissemBarkallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أتعلم البرمجة بلغة **Python** وأبني مشاريع صغيرة لتطوير مهاراتي.
 
-Here are some ideas to get you started:
+## مشاريعي
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| المشروع | الوصف |
+|---------|-------|
+| [Budget Tracker](https://github.com/WissemBarkallah/budget-tracker) | برنامج لتسجيل الدخل والمصروفات من سطر الأوامر |
+
+## ما أتعلمه حالياً
+
+- Python
+- Git و GitHub
+
+---
+
+# Hi, I'm [wissem barkallah] 👋
+
+I'm learning **Python** and building small projects to improve my skills.
